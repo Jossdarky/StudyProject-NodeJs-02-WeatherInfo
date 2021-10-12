@@ -1,0 +1,16 @@
+{
+  "name": "05-clima-app",
+  "version": "0.0.1",
+  "description": "App clima ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jossdarky",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "colors": "^1.4.0",
+    "inquirer": "^8.1.5"
+  }
+}

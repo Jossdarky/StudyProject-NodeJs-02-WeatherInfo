@@ -1,0 +1,7 @@
+{
+    "type": "FeatureCollection",
+    "query": [
+        "bogota"
+    ],
+    "features": ["1","2"]
+}
